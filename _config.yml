@@ -1,0 +1,28 @@
+name: Michael H.W. Backes
+favicon: null
+layout_spectrum: 0.6254636815283448
+typography_spectrum: 0.16251040948554873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15713080391287804
+  lightness: 0.9138216786086559
+  saturation: 0.1882362242322415
+  rhythmicContrast: 0.08197746728546917
+purpose: []
