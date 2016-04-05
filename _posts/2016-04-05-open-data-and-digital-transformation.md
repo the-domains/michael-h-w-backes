@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T17:39:32.180Z'
-dateModified: '2016-04-05T17:37:39.200Z'
+datePublished: '2016-04-05T17:46:17.909Z'
+dateModified: '2016-04-05T17:45:50.440Z'
 title: 'Open Data & Digital Transformation'
 author: []
 sourcePath: _posts/2016-04-05-open-data-and-digital-transformation.md
