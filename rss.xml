@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael H.W. Backes]]></title>
         <description><![CDATA[Michael H.W. Backes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-h-w-backes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 17:37:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 17:39:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-h-w-backes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Open Data & Digital Transformation]]></title>
             <description><![CDATA[<article><h1>Open Data & Digital Transformation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a1ac6a92c03f6fc42712885e9028746221137c0.jpg"></article>]]></description>
-            <link>undefinedopen-data-and-digital-transformation/index.html</link>
+            <link>https://thegrid.ai/michael-h-w-backes/open-data-and-digital-transformation/index.html</link>
             <guid isPermaLink="false">ea9a8efd-e8b3-451f-9e80-c8d2e6714eeb</guid>
-            <pubDate>Tue, 05 Apr 2016 17:37:31 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 17:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
