@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T17:37:31.854Z'
-dateModified: '2016-04-05T17:36:15.663Z'
+datePublished: '2016-04-05T17:39:32.180Z'
+dateModified: '2016-04-05T17:37:39.200Z'
 title: 'Open Data & Digital Transformation'
 author: []
+sourcePath: _posts/2016-04-05-open-data-and-digital-transformation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-open-data-and-digital-transformation.md
-published: true
 url: open-data-and-digital-transformation/index.html
 _type: Article
 
